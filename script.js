@@ -1,5 +1,5 @@
-const CONTAINERHEIGHT = 3500
-const CONTAINERWIDTH = 3500
+const CONTAINERHEIGHT = 800
+const CONTAINERWIDTH = 800
 
 const container = document.querySelector(".container");
 container.style.width = CONTAINERWIDTH + "px";
